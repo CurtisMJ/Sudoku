@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/mainBoard"
+
+    >
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth"  android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="0"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="1"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="2"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="3"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="4"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="5"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="6"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="7"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="@dimen/cellwidth"
+            android:layout_height="@dimen/cellwidth" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="#" android:textSize="@dimen/textSize"
+
+            android:layout_column="8"
+            android:singleLine="true" />
+
+    </TableRow>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Check"
+        android:id="@+id/btnCheck"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="hh:mm:ss"
+        android:id="@+id/timerTextView"
+        android:gravity="center_horizontal" />
+
+</TableLayout>
